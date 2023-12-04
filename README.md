@@ -6,16 +6,14 @@
 
 ![](./img/version-dockerhub.jpeg)
 # Subiendo Commits
-
-
-# Commit subido 
-
+![](./img/Commits.jpeg)
 
 # Verificando Workflows
+![](./img/Workflows-procesando.jpeg)
 
-
-# Comprobando nueva version 
-
+![](./img/Workflows-ejecutadocorrectamente.jpeg)
+# Comprobando nueva version
+ ![](./img/VersionActualizada-dockerhub.jpeg)
 
 ## Installation
 
