@@ -42,5 +42,5 @@ jobs:
         env:
           NEW_VERSION: ${{ steps.version.outputs.version }}
         run: |
-          docker push allegseu/github-actions:$NEW_VERSION
+          docker push alanzc1/docker-graphql:$NEW_VERSION
           docker push alanzc1/docker-graphql:latest
